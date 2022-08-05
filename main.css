@@ -1,5 +1,5 @@
-head,body{
-   zoom: 65%;
+html, body{
+    zoom: 65%;
 }
 /*Importing some fonts for the project*/
 @font-face {
