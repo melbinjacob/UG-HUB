@@ -1,0 +1,136 @@
+/*Importing some fonts for the project*/
+@font-face {
+    font-family: SFlight;
+    src: url(SF.otf);
+}
+
+@font-face {
+    font-family: futura;
+    src: url(futura.ttf);
+}
+
+@font-face {
+    font-family: futura-md;
+    src: url(futura-medium-bt.ttf);
+}
+
+/*Positioning first illustration*/
+#searching{
+    position: relative;
+    top: 12cm;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*Positioning and resizing the quot*/
+.quote{
+    position: relative;
+    top: 12cm;
+    text-align: center;
+    font-family: sflight;
+    font-size: 250%;
+}
+
+/*Positioning the logo*/
+#logo{
+    position: relative;
+    top: 10cm;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*Positioning and resizing the text above Google play button*/
+.text{
+    position: relative;
+    top: 8.5cm;
+    text-align: center;
+    font-family: sflight;
+    font-size: 200%;
+}
+
+/*Positioning the line abone the Google play button*/
+#line{
+    position: relative;
+    top: 8.5cm;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*Positioning the Google play button*/
+#play{
+    position: relative;
+    top: 6.5cm;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*Positioning and resizing the welcoming text for students*/
+.wel1{
+    position: relative;
+    top: 12cm;
+    text-align: center;
+    font-family: sflight;
+    font-size: 250%;
+}
+
+/*Positioning and resizing the students text*/
+.stu{
+    position: relative;
+    top: 9.5cm;
+    text-align: center;
+    font-family: futura;
+    font-size: 500%;
+    color: #4438ca;
+}
+
+/*Positioning the second illustration*/
+#stud{
+    position: relative;
+    top: 9.5cm;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*Positioning and resizing welcoming for content uploaders*/
+.wel2{
+    position: relative;
+    top: 22cm;
+    text-align: center;
+    font-family: sflight;
+    font-size: 250%;
+}
+
+/*Positioning and resizing the content uploaders text*/
+.upld{
+    position: relative;
+    top: 20cm;
+    text-align: center;
+    font-family: futura;
+    font-size: 500%;
+    color: #4438ca;
+    line-height: 1;
+}
+
+/*Positioning the third illustration*/
+#upl{
+    position: relative;
+    top: 20cm;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.dot{
+    position: relative;
+    top: 22cm;
+    text-align: center;
+    font-family: sflight;
+    font-size: 250%;
+    color: white;
+}
