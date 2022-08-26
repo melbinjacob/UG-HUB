@@ -64,13 +64,14 @@ header{
    color: rgb(255, 255, 255);
 }
 
+
 #searching{
     position: relative;
     top: 2cm;
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} 
 
 .quote{
     position: relative;
@@ -81,7 +82,7 @@ header{
     'Helvetica Neue', sans-serif;
     font-size: 100%;
     color: var(--secondary-color);
-}
+} 
 
 #logo{
     position: relative;
@@ -117,7 +118,7 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} 
 
 .wel1{
     position: relative;
